@@ -74,6 +74,4 @@ The site is currently hosted on Netlify for free static deployment. Any updates 
 - The website is focused on B2B textile manufacturing enquiries.
 - The RFQ form is intended for direct business lead generation.
 
-![Mobile Preview](image.png)
-![RFQ Preview](image-1.png)
 ![Desktop View](image-2.png)
